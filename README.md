@@ -10,6 +10,8 @@
 
 File to run:
 
+    /executor/executor.py 
+
 
 ## Implementation details
 
