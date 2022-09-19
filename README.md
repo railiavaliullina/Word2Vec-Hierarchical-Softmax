@@ -3,7 +3,7 @@
 ## About The Project
 
 1) Implementation of Skip-gram + Hierarchical Softmax (using NumPy + Cython),
-2) Training on Text8 corpus (100 mb of Wiki data)
+2) Training on Text8 corpus (100 mb of Wiki data).
 
 ## Getting Started
 
